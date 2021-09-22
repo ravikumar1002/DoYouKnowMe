@@ -8,7 +8,7 @@ So Let's play ;)
 
 # Technologies used:
 
-Javascript
-NodeJs
+  * Javascript
+  * NodeJs
 
 Don't forget to leave a ⭐ if you found this useful & interesting.
